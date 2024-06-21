@@ -12,7 +12,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica. O artigo será guiado pela IA porém haverá uma revisão e complementação humana.
 
-<a href="https://github.com/raraujor/bootcamp-santander-2024-prompts-recipe-to-create-a-ebook/blob/main/assets/Ebook-Inova%C3%A7%C3%A3o%20Educacional%20com%20IA-Utilizando%20o%20ChatGPT%20na%20Educa%C3%A7%C3%A3o.pdf" title="View PDF now"> 📄Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/estrategias-para-prompts-poderosos-melhorando-suas-conversas-com-o-chatgpt" title="View article now"> 📄Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -27,16 +27,16 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título para um ebook onde o tema será Inteligência Artificial para professores, o nicho será como professores podem utilizar o chatgpt e outras ia no dia a dia, o título deve ser curto. Crie 5 opções                                                        |
-| conteúdo | Crie textos para um ebook que tem o título: Inovação Educacional com IA, com foco em utilização do ChatGPT na educação para professores, listando as principais casos de uso que os professores estão se beneficiando do uso do ChatGPT.
+|  título  | Crie 10 chamadas para nomes de artigos sobre o assunto ChatGPT - prompts                                                     |
+| conteúdo | Crie um artigo com o tema: "Estratégias para Prompts Poderosos: Melhorando suas Conversas com o ChatGPT". Comporte-se como um escritor de artigos tech e escreva o artigo atendendo as regras abaixo.
 
 {REGRAS}
-
-> Explique sempre de uma maneira simples
-> Deixe o texto enxuto
-> Sempre traga pelo menos 5 exemplos em contexto reais
-> Para cada exemplo adicione dois exemplos de prompt para o professor ter uma idéia de como pedir ao ChatGPT como realizar a tarefa
-> Crie um título sugestivo por tópico |
+> No máximo 5 linhas por blocos de explicação
+> Explique de maneira informal, utilizando comparções do dia a dia e explique como se fosse lido para uma criança de 12 anos
+> Crie pelo menos 5 exemplo para cada estratégia, os exemplos devem ser considerando a área de TI
+> Utilize boas práticas para uso do ChatGPT
+> Faça um call to de action para minhas redes sociais
+> Adicione 3 hashtags |
 
 
 ## ✨ Features
